@@ -1,1 +1,5 @@
 *.vs
+/ChallengesWithTestsMark8.Tests/bin
+/ChallengesWithTestsMark8.Tests/obj
+/ChallengesWithTestsMark8/obj
+/ChallengesWithTestsMark8/bin
